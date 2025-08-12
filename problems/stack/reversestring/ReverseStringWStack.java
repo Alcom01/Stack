@@ -7,7 +7,7 @@ public class ReverseStringWStack {
     public static void  main(String[] args){
         String s = "Stacking the Stacks";
         String t = "Im dying sister i got TB";
-        String k = "cba";
+        String k = "cba";  // Top// c // bc // abc Bottom
         String l = "kayak";
 
 
